@@ -1,4 +1,4 @@
-this directory is for temporary use, only one vervion of sd card image will be deployed here
+this directory is for temporary use, only one version of sd card image will be deployed here
 
 to join the parts, example:
     $ cat rpi.img.bz2.* > rpi.img.bz2
